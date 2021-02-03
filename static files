@@ -1,0 +1,3 @@
+cd /srv/numbas-lti-provider
+source /opt/numbas_lti_python/bin/activate
+python manage.py collectstatic --noinput
